@@ -74,7 +74,7 @@ Please open a issue giving info on how to do this on MacOS!
 
 - [Clone](https://github.com/jules-party/startPage#setting-up) this repo
 - Then run `git checkout chrome` to easily setup as extensions
-- Go to `chrome://extensions` and click the `Developer mode` checkbock found on the top right.
+- Go to `chrome://extensions` and click the `Developer mode` checkbox found on the top right.
 - Click `Load unpacked extension...`
 - Navigate to your folder and click select
 
