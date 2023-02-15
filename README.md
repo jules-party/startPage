@@ -17,7 +17,6 @@ tsc
 ```
 
 # Changing this to your newtab page (Firefox, Chrome)
-**Warning!** I have no experience with setting up new tab with chrome, please make a issue giving correct instructions for chrome.
 
 ## Firefox
 [Source](https://konfou.xyz/posts/local-firefox-new-tab-page/)
