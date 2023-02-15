@@ -10,7 +10,6 @@ document.addEventListener('keydown', (e) => {
 
             dimElement.style.display = "inline-block";
             searchBox.style.display  = "inline-block";
-            console.log("aasd");
             isSearching = true;
         }
     } else if((e as KeyboardEvent).key == 'Escape') {
