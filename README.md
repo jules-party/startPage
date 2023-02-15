@@ -74,20 +74,7 @@ Please open a issue giving info on how to do this on MacOS!
 [Source](https://superuser.com/questions/907234/change-chrome-new-tab-page-to-local-file)
 
 - [Clone](https://github.com/jules-party/startPage#setting-up) this repo
-- Create new file called `manifest.json`
-- Paste this in `manifest.json`
-```json
-{
-  "name": "My custom new tab page",
-  "description": "Overrides the new tab page",
-  "version": "0.1",
-  "incognito": "split",
-  "chrome_url_overrides": {
-    "newtab": "index.html"
-  },
-  "manifest_version": 2
-}
-```
+- Then run `git checkout chrome` to easily setup as extensions
 - Go to `chrome://extensions` and click the `Developer mode` checkbock found on the top right.
 - Click `Load unpacked extension...`
 - Navigate to your folder and click select
